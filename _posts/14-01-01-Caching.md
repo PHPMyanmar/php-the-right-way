@@ -4,5 +4,4 @@ anchor: caching
 
 # Caching {#caching_title}
 
-PHP is pretty quick by itself, but bottlenecks can arise when you make remote connections, load files, etc. 
-Thankfully, there are various tools available to speed up certain parts of your application, or reduce the number of times these various time-consuming tasks need to run.
+PHP ဟာ ပုံမှန်ဆိုရင် မြန်ဆန်ပါတယ်။ ဒါပေမယ့် file တွေ load ရတဲ့အခါ၊ remote connect လုပ်ရတဲ့ အခါမျိုးမှာ အချိန်ကြန့်ကြာမှုတွေဖြစ်နိုင်ပါတယ်။ တစ်ဖက်မှာလည်း သင့် application ရဲ့ တစ်ချို့အပိုင်းတွေကို ပိုမြန်ဆန်အောင်ပြုလုပ်ဖို့၊ အချိန်ကြာ task တွေ  လုပ်ဆောင်တဲ့အခါ ကြာချိန်လျော့ချဖို့ tool အမျိုးမျိုးလည်းရှိနေပါတယ်။
